@@ -1,2 +1,6 @@
 # Week1
-Basics is deep learning
+Basics of deep learning
+#Week2
+Preprocessing, dataset loading, model building
+#Week3
+Model compilation, training and evaluation.
